@@ -1,0 +1,15 @@
+C:\Users\Роман\Desktop\lesson 3.1\Exemples\Exemple002_HelloUser\bin\Debug\net7.0\Exemple002_HelloUser.exe
+C:\Users\Роман\Desktop\lesson 3.1\Exemples\Exemple002_HelloUser\bin\Debug\net7.0\Exemple002_HelloUser.deps.json
+C:\Users\Роман\Desktop\lesson 3.1\Exemples\Exemple002_HelloUser\bin\Debug\net7.0\Exemple002_HelloUser.runtimeconfig.json
+C:\Users\Роман\Desktop\lesson 3.1\Exemples\Exemple002_HelloUser\bin\Debug\net7.0\Exemple002_HelloUser.dll
+C:\Users\Роман\Desktop\lesson 3.1\Exemples\Exemple002_HelloUser\bin\Debug\net7.0\Exemple002_HelloUser.pdb
+C:\Users\Роман\Desktop\lesson 3.1\Exemples\Exemple002_HelloUser\obj\Debug\net7.0\Exemple002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\lesson 3.1\Exemples\Exemple002_HelloUser\obj\Debug\net7.0\Exemple002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роман\Desktop\lesson 3.1\Exemples\Exemple002_HelloUser\obj\Debug\net7.0\Exemple002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\Роман\Desktop\lesson 3.1\Exemples\Exemple002_HelloUser\obj\Debug\net7.0\Exemple002_HelloUser.AssemblyInfo.cs
+C:\Users\Роман\Desktop\lesson 3.1\Exemples\Exemple002_HelloUser\obj\Debug\net7.0\Exemple002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\lesson 3.1\Exemples\Exemple002_HelloUser\obj\Debug\net7.0\Exemple002_HelloUser.dll
+C:\Users\Роман\Desktop\lesson 3.1\Exemples\Exemple002_HelloUser\obj\Debug\net7.0\refint\Exemple002_HelloUser.dll
+C:\Users\Роман\Desktop\lesson 3.1\Exemples\Exemple002_HelloUser\obj\Debug\net7.0\Exemple002_HelloUser.pdb
+C:\Users\Роман\Desktop\lesson 3.1\Exemples\Exemple002_HelloUser\obj\Debug\net7.0\Exemple002_HelloUser.genruntimeconfig.cache
+C:\Users\Роман\Desktop\lesson 3.1\Exemples\Exemple002_HelloUser\obj\Debug\net7.0\ref\Exemple002_HelloUser.dll
